@@ -1,0 +1,67 @@
+@font-face{
+	font-family: one;
+	src:url('../../font/LibreFranklin.ttf');
+}
+.logo_img{
+	width: 70px;
+	height: 50px;
+}
+
+.logo_text{
+	margin-left: 5px;
+	font-family: one;
+}
+hr.divided_by{
+	max-width: 8rem;
+	border-width: 0.2rem;
+	border-color: #337ab7;
+}
+#clips {
+    padding: 0px;
+    max-width: 100%;
+    margin-top: 0px;
+}
+#clips {
+    margin-top: 20px;
+    padding-top: 20px;
+}
+.centeredContent {
+    max-width: 1300px;
+    width: 100%;
+    margin: 0px auto;
+    padding: 0 10px;
+}
+.img_2{
+	width: 380px; height: 170px;
+}
+.img_22{
+	width: 200px;
+	height: 100px;
+}
+.btn-right1{
+	float: right;
+}
+@media only screen and (max-width:900px){
+	.dee{
+		float: right;
+		margin-left: 450px;
+
+	}
+
+
+}
+@media only screen and (max-width:700px){
+	.dee{
+		float: right;
+		margin-left:10px;
+
+	}
+
+
+}
+@media only screen and (max-width:500px){
+	.dee{
+		float: right;
+		margin-left: 350px;
+
+	}
